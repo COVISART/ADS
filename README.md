@@ -1,3 +1,5 @@
+[![build](https://github.com/COVISART/ADS/actions/workflows/build.yml/badge.svg)](https://github.com/COVISART/ADS/actions/workflows/build.yml)
+
 This library is intended to provide easy use as ADS client applications running on non-windows systems (e.g. FreeBSD, Linux, ...) to communicate with TwinCAT devices via TCP/IP.
 
 To build this library a recent compiler with C++14 support is required.
